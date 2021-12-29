@@ -1,4 +1,4 @@
-# LTSM & CNN Sinus
+# LSTM & CNN Sinus
 Prediction of Sinus 
 It is well known that artificial neural networks are good at modeling any function. I wonder whether they can go one step further, and learn the generalized model of a function. For simplicity let’s try to learn a sine function with just one parameter A, which controls the frequency:
 y = sin(A*x)
