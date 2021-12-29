@@ -141,3 +141,5 @@ forecast = scaler.inverse_transform(forecast)
 stop = (25*0.1) + 50.1
 index = np.arange(50.1,stop,0.1)
 
+model.save("./model.h5")
+
